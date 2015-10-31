@@ -1,0 +1,136 @@
+EECS 401. Probabilistic Methods in Engineering 
+EECS 402. Computer Programming For Scientists and Engineers 
+EECS 406 (ENGR 406). High-Tech Entrepreneurship
+EECS 410 (ENGR 410) Patent Fundamentals for Engineers 
+EECS 411. Microwave Circuits I 
+EECS 413. Monolithic Amplifier Circuits 
+EECS 414. Introduction to MEMS 
+EECS 417 (BIOMEDE 417). Electrical Biophysics 
+EECS 418. Power Electronics
+EECS 419. Electric Machinery and Drives
+EECS 421. Properties of Transistors 
+EECS 423. Solid-State Device Laboratory 
+EECS 425. Integrated Microsystems Laboratory 
+EECS 427. VLSI Design I 
+EECS 429. Semiconductor Optoelectronic Devices 
+EECS 430 (AOSS 431). Radiowave Propagation and Link Design 
+EECS 434. Principles of Photonics 
+EECS 435. Fourier Optics 
+EECS 438. Advanced Lasers and Optics Laboratory 
+EECS 441. Mobile App Development for Entrepreneurs
+EECS 442. Computer Vision 
+EECS 443. Senior Thesis
+EECS 445. Introduction to Machine Learning
+EECS 452. Digital Signal Processing Design Laboratory 
+EECS 453. Applied Matrix Algorithms for Signal Processing, Data Analysis and Machine Learning
+EECS 455. Digital Communication Signals and Systems 
+EECS 458 (BIOMEDE 458). Biomedical Instrumentation and Design 
+EECS 460. Control Systems Analysis and Design 
+EECS 461. Embedded Control Systems 
+EECS 463. Power Systems Design and Operation
+EECS 467. Autonomous Robotics
+EECS 470. Computer Architecture 
+EECS 473. Advanced Embedded Systems
+EECS 475. Introduction to Cryptography 
+EECS 477. Introduction to Algorithms 
+EECS 478. Logic Circuit Synthesis and Optimization 
+EECS 480. Logic and Formal Verification
+EECS 481. Software Engineering 
+EECS 482. Introduction to Operating Systems 
+EECS 483. Compiler Construction 
+EECS 484. Database Management Systems 
+EECS 485. Web Database and Information Systems 
+EECS 487. Interactive Computer Graphics 
+EECS 489. Computer Networks 
+EECS 490. Programming Languages
+EECS 492. Introduction to Artificial Intelligence 
+EECS 493. User Interface Development 
+EECS 494. Computer Game Design and Development 
+EECS 496. Major Design Experience Professionalism 
+EECS 497. EECS Major Design Projects 
+EECS 498. Special Topics 
+EECS 499. Directed Study 
+EECS 500. Tutorial Lecture Series in System Science 
+EECS 501. Probability and Random Processes 
+EECS 502. Stochastic Processes 
+EECS 503. Introduction to Numerical Electromagnetics 
+EECS 509. BioMEMS
+EECS 510. RF MEMS
+EECS 511. Integrated Analog/Digital Interface Circuits 
+EECS 512. Amorphous and Microcrystalline Semiconductor Thin Film Devices 
+EECS 513. Flat Panel Displays 
+EECS 514. Advanced MEMS Devices and Technologies 
+EECS 515. Integrated Microsystems 
+EECS 516 (BIOMEDE 516). Medical Imaging Systems 
+EECS 517 (NERS 578). Physical Processes in Plasmas 
+EECS 518 (AOSS 595). Magnetosphere and Solar Wind 
+EECS 519 (NERS 575). Plasma Generation and Diagnostics Laboratory 
+EECS 520. Solid State Physics 
+EECS 521. Solid State Devices
+EECS 522. Analog Integrated Circuits 
+EECS 523. Digital Integrated Technology 
+EECS 525. Advanced Solid State Microwave Circuits 
+EECS 527. Layout Synthesis and Optimization 
+EECS 528. Principles of Microelectronics Process Technology 
+EECS 529. Semiconductor Lasers and LEDs 
+EECS 530 (APPPHYS 530). Electromagnetic Theory I 
+EECS 531. Antenna Theory and Design 
+EECS 532 (AOSS 587). Microwave Remote Sensing I: Radiometry 
+EECS 533. Microwave Measurements Laboratory 
+EECS 534. Design and Characterization of Microwave Devices and Monolithic Circuits
+EECS 535. Optical Information Processing 
+EECS 536. Classical Statistical Optics 
+EECS 537 (APPPHYS 537). Classical Optics 
+EECS 538 (APPPHYS 550) (PHYSICS 650). Optical Waves in Crystals 
+EECS 539 (APPPHYS 551) (PHYSICS 651). Lasers 
+EECS 540 (APPPHYS 540). Applied Quantum Mechanics I 
+EECS 541 (APPPHYS 541). Applied Quantum Mechanics II 
+EECS 542. Advanced Topics in Computer Vision
+EECS 543. Knowledge-Based Systems 
+EECS 545. Machine Learning 
+EECS 546 (APPPHYS 546). Ultrafast Optics 
+EECS 547 (SI 652). Electronic Commerce 
+EECS 550. Information Theory 
+EECS 551. Matrix Methods for Signal Processing, Data Analysis and Machine Learning
+EECS 552 (APPPHYS 552). Fiber Optics: Internet to Biomedical Applications
+EECS 553. Theory and Practice of Data Compression
+EECS 554. Introduction to Digital Communication and Coding 
+EECS 555. Digital Communication Theory 
+EECS 556. Image Processing 
+EECS 557. Communication Networks 
+EECS 558. Stochastic Control 
+EECS 559. Advanced Signal Processing 
+EECS 560 (AEROSP 550) (CEE 571) (MECHENG 564). Linear Systems Theory 
+EECS 561 (MECHENG 561). Design of Digital Control Systems 
+EECS 562 (AEROSP 551). Nonlinear Systems and Control 
+EECS 564. Estimation, Filtering, and Detection 
+EECS 565 (AEROSP 580). Linear Feedback Control Systems 
+EECS 566. Discrete Event Systems
+EECS 567 (MFG 567) (MECHENG 567). Robot Kinematics and Dynamics
+EECS 568 (NAVARCH 568). Mobile Robotics: Methods and Algorithms 
+EECS 569. Production Systems Engineering
+EECS 570. Parallel Computer Architecture 
+EECS 571. Principles of Real-Time Computing 
+EECS 573. Microarchitecture 
+EECS 574. Computational Complexity 
+EECS 575. Advanced Cryptography 
+EECS 578. Correct Operation for Processors and Embedded Systems
+EECS 579. Digital System Testing 
+EECS 580. Advanced Computer Graphics
+EECS 581. Software Engineering Tools 
+EECS 582. Advanced Operating Systems 
+EECS 583. Advanced Compilers 
+EECS 584. Advanced Database Systems 
+EECS 586. Design and Analysis of Algorithms 
+EECS 587. Parallel Computing 
+EECS 588. Computer and Network Security 
+EECS 589. Advanced Computer Networks 
+EECS 590. Advanced Programming Languages
+EECS 591. Distributed Systems 
+EECS 592. Advanced Artificial Intelligence 
+EECS 594. Introduction to Adaptive Systems 
+EECS 595 (LING 541) (SI 561). Natural Language Processing 
+EECS 596. Master of Engineering Team Project 
+EECS 597 (SI 760) (LING 702). Language and Information 
+EECS 598. Special Topics in Electrical Engineering and Computer Science 
+EECS 599. Directed Study 
