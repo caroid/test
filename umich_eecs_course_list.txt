@@ -1,8 +1,8 @@
 EECS 401. Probabilistic Methods in Engineering------------------------------------------------------工程中的概率方法 
 EECS 402. Computer Programming For Scientists and Engineers-----------------------------------------科学家和工程师的计算机编程 
-EECS 406 (ENGR 406). High-Tech Entrepreneurship
-EECS 410 (ENGR 410) Patent Fundamentals for Engineers 
-EECS 411. Microwave Circuits I 
+EECS 406 (ENGR 406). High-Tech Entrepreneurship-----------------------------------------------------高技术创业公司
+EECS 410 (ENGR 410) Patent Fundamentals for Engineers-----------------------------------------------专利工程师基础 
+EECS 411. Microwave Circuits I----------------------------------------------------------------------微波电路I 
 EECS 413. Monolithic Amplifier Circuits 
 EECS 414. Introduction to MEMS 
 EECS 417 (BIOMEDE 417). Electrical Biophysics 
