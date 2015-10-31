@@ -1,5 +1,5 @@
-EECS 401. Probabilistic Methods in Engineering 
-EECS 402. Computer Programming For Scientists and Engineers 
+EECS 401. Probabilistic Methods in Engineering------------------------------------------------------工程中的概率方法 
+EECS 402. Computer Programming For Scientists and Engineers-----------------------------------------科学家和工程师的计算机编程 
 EECS 406 (ENGR 406). High-Tech Entrepreneurship
 EECS 410 (ENGR 410) Patent Fundamentals for Engineers 
 EECS 411. Microwave Circuits I 
