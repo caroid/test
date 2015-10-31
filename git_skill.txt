@@ -1,0 +1,17 @@
+git init
+
+git add .
+git commit 
+
+git branch -av # List all existing branches
+git checkout <branch> # Switch HEAD branch
+
+git remote -v # List all currently configured remotes
+git remote add <shortname> <url> # Add new remote repository,named <remote>
+
+git pull <remote> <branch> # Download changes and directly merge/integrate into HEAD
+git push <remote> <branch> # Publish local changes on a remote
+
+git merge <branch> # Merge <branch> into your current HEAD
+
+
