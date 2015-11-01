@@ -1,3 +1,6 @@
+20151102: other commands
+
+20151101: frequency commands
 git init
 
 git add .
@@ -13,5 +16,7 @@ git pull <remote> <branch> # Download changes and directly merge/integrate into 
 git push <remote> <branch> # Publish local changes on a remote
 
 git merge <branch> # Merge <branch> into your current HEAD
+
+.gitignore ### The template of ignored files type Don't commit to repository.
 
 
