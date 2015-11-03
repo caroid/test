@@ -1,4 +1,4 @@
-20151102: other commands
+20151103: other commands
 
 20151101: frequency commands
 git init
@@ -19,4 +19,4 @@ git merge <branch> # Merge <branch> into your current HEAD
 
 .gitignore ### The template of ignored files type Don't commit to repository.
 
-
+reference resource:础 
